@@ -11,20 +11,19 @@ You can click the Preview link to take a look at your changes.
 
 # TABLE OF CONTENTS : 
 1. [CPP](https://github.com/debacoding/CPP)
-  1. [Language Details](https://github.com/debacoding/CPP/tree/main/Language%20Details)
+   1. [Language Details](https://github.com/debacoding/CPP/tree/main/Language%20Details)
       1. [CPP Basics](https://github.com/debacoding/CPP/tree/main/Language%20Details/CPP%20Basics)
-        1.1.2. [CPP STL](https://github.com/debacoding/CPP/tree/main/Language%20Details/CPP%20STL)
-        1.1.3.
-        1.1.4.
-   1.2. [Practice Problems](https://github.com/debacoding/CPP/tree/main/Practice%20Problems)
-        1.2.1. [CODING NINJAS](https://github.com/debacoding/CPP/tree/main/Practice%20Problems/CODING%20NINJAS)
-        1.2.2. [General Codes](https://github.com/debacoding/CPP/tree/main/Practice%20Problems/GENERAL%20CODES)
-        1.2.3. [HACKERRANK 30 Days of Code](https://github.com/debacoding/CPP/tree/main/Practice%20Problems/HACKERRANK%2030%20Days%20of%20Code)
-        1.2.4. [HACKERRANK](https://github.com/debacoding/CPP/tree/main/Practice%20Problems/HACKERRANK)
+      2. [CPP STL](https://github.com/debacoding/CPP/tree/main/Language%20Details/CPP%20STL)
+     
+   2. [Practice Problems](https://github.com/debacoding/CPP/tree/main/Practice%20Problems)
+      1. [CODING NINJAS](https://github.com/debacoding/CPP/tree/main/Practice%20Problems/CODING%20NINJAS)
+      2. [General Codes](https://github.com/debacoding/CPP/tree/main/Practice%20Problems/GENERAL%20CODES)
+      3. [HACKERRANK 30 Days of Code](https://github.com/debacoding/CPP/tree/main/Practice%20Problems/HACKERRANK%2030%20Days%20of%20Code)
+      4. [HACKERRANK](https://github.com/debacoding/CPP/tree/main/Practice%20Problems/HACKERRANK)
 2. [Competitive Programming](https://github.com/debacoding/Competitive-Programming)
-   2.1.
-   2.2.
-   2.3.
+   1.
+   2.
+   3.
 3. [HTML](https://github.com/debacoding/HTML)
    3.1.
    3.2.
