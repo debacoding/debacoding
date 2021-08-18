@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 # TABLE OF CONTENTS : 
 1. [CPP](https://github.com/debacoding/CPP)
-   1.1. [Language Details](https://github.com/debacoding/CPP/tree/main/Language%20Details)
-        1.1.1. [CPP Basics](https://github.com/debacoding/CPP/tree/main/Language%20Details/CPP%20Basics)
+  1. [Language Details](https://github.com/debacoding/CPP/tree/main/Language%20Details)
+      1. [CPP Basics](https://github.com/debacoding/CPP/tree/main/Language%20Details/CPP%20Basics)
         1.1.2. [CPP STL](https://github.com/debacoding/CPP/tree/main/Language%20Details/CPP%20STL)
         1.1.3.
         1.1.4.
