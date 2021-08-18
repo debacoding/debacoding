@@ -9,7 +9,7 @@ debacoding/debacoding is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-#TABLE OF CONTENTS : 
+# TABLE OF CONTENTS : 
 1. [CPP](https://github.com/debacoding/CPP)
 2. [Competitive Programming](https://github.com/debacoding/Competitive-Programming)
 3. [HTML](https://github.com/debacoding/HTML)
