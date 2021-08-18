@@ -21,25 +21,15 @@ You can click the Preview link to take a look at your changes.
       3. [HACKERRANK 30 Days of Code](https://github.com/debacoding/CPP/tree/main/Practice%20Problems/HACKERRANK%2030%20Days%20of%20Code)
       4. [HACKERRANK](https://github.com/debacoding/CPP/tree/main/Practice%20Problems/HACKERRANK)
 2. [Competitive Programming](https://github.com/debacoding/Competitive-Programming)
-   1.
-   2.
-   3.
+  
 3. [HTML](https://github.com/debacoding/HTML)
-   3.1.
-   3.2.
-   3.3.
+  
 4. [SQL](https://github.com/debacoding/SQL)
-   4.1.
-   4.2.
-   4.3.
+   
 5. [JAVA](https://github.com/debacoding/JAVA)
-   5.1.
-   5.2.
-   5.3.
+   
 6. [PYTHON](https://github.com/debacoding/PYTHON)
-   6.1.
-   6.2.
-   6.3.
+   
 
 
 
