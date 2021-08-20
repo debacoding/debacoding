@@ -25,9 +25,23 @@ You can click the Preview link to take a look at your changes.
    
 7. [PYTHON](https://github.com/debacoding/PYTHON)
 
+
+## My stars:
+1. [Hacker rank 30 days of code](https://github.com/xeoneux/30-Days-of-Code)
+2. [Begineer CPP](https://github.com/Vishal-raj-1/Beginner-CPP-Submissions/tree/master/Vishal)
+3. [Competitive Programming](https://github.com/kothariji/competitive-programming)
+4. [Competitive Programming ~ Coding Ninjas](https://github.com/parikshit223933/Coding-Ninjas-Competitive-Programming)
+   
+
 ## Forked Repos :
 1. [competitive-programming-1](https://github.com/debacoding/competitive-programming-1)
-   
+2. [the complete FAANG prep.](https://github.com/debacoding/The-Complete-FAANG-Preparation)
+3. [coding ninjas competitive programming](https://github.com/debacoding/Coding-Ninjas-Competitive-Programming)
+4. [LinkedIn Learning](https://github.com/LinkedInLearning/c-plus-plus-trucos-2823311)
+5. [Beginning C++ Programming - From Beginner to Beyond | Udemy](https://github.com/aitorlb/beginning-cpp-programming)
+6. [Algorithms and Data Structures MicroMasters Program | edX](https://github.com/aitorlb/algorithms-and-data-structures-micromasters)
+
+
 
 
 
