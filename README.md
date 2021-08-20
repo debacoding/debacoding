@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
      
    2. [Practice Problems](https://github.com/debacoding/CPP/tree/main/Practice%20Problems)
       1. [CODING NINJAS](https://github.com/debacoding/CPP/tree/main/Practice%20Problems/CODING%20NINJAS)
-      2. [General Codes](https://github.com/debacoding/CPP/tree/main/Practice%20Problems/GENERAL%20CODES)
+      2. 
       3. [HACKERRANK 30 Days of Code](https://github.com/debacoding/CPP/tree/main/Practice%20Problems/HACKERRANK%2030%20Days%20of%20Code)
       4. [HACKERRANK](https://github.com/debacoding/CPP/tree/main/Practice%20Problems/HACKERRANK)
       5. [KACKEREARTH](https://github.com/debacoding/CPP/tree/main/Practice%20Problems/HACKEREARTH)
