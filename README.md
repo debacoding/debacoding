@@ -9,32 +9,125 @@ debacoding/debacoding is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-# TABLE OF CONTENTS : 
-## My Repos :
-1. [CPP](https://github.com/debacoding/CPP)
-    1. Coding Ninjas
-       1. Basics of C++ (Guided Path)
-    2. Hacker Rank
-       1. Practice / C++
-       2. 30 days of code
-       3. Project Euler +
-    3. Hacker Earth 
-       1. Start Online Programming
-       2. Basic Programming
-    4. GeeksforGeeks
-   
-2. [DSA](https://github.com/debacoding/DSA)
-   
-3. [Competitive Programming](https://github.com/debacoding/Competitive-Programming)
-  
-4. [HTML](https://github.com/debacoding/HTML)
-  
-5. [SQL](https://github.com/debacoding/SQL)
-   
-6. [JAVA](https://github.com/debacoding/JAVA)
-   
-7. [PYTHON](https://github.com/debacoding/PYTHON)
+# TABLE OF CONTENTS :
 
+## My Repos :
+```js
+|___ [CPP](https://github.com/debacoding/CPP)
+|     |___ Coding Ninjas
+|     |     |___ Basics of C++ (Guided Path)
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|     |___ Hacker Rank
+|     |     |___ Practice / C++
+|     |     |___ 30 days of code
+|     |     |___ Project Euler +
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|     |___ Hacker Earth 
+|     |     |___ Start Online Programming
+|     |     |___ Basic Programming
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|     |___ GeeksforGeeks
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|___ [DSA](https://github.com/debacoding/DSA)
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|___ [Competitive Programming](https://github.com/debacoding/Competitive-Programming)
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|___ [HTML](https://github.com/debacoding/HTML)
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|___ [SQL](https://github.com/debacoding/SQL)
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|___ [JAVA](https://github.com/debacoding/JAVA)
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|___ [PYTHON](https://github.com/debacoding/PYTHON)
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+```
 
 ## My stars:
 1. [Hacker rank 30 days of code](https://github.com/xeoneux/30-Days-of-Code)
