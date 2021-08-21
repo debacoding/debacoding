@@ -12,6 +12,16 @@ You can click the Preview link to take a look at your changes.
 # TABLE OF CONTENTS : 
 ## My Repos :
 1. [CPP](https://github.com/debacoding/CPP)
+    1. Coding Ninjas
+       1. Basics of C++ (Guided Path)
+    2. Hacker Rank
+       1. Practice / C++
+       2. 30 days of code
+       3. Project Euler +
+    3. Hacker Earth 
+       1. Start Online Programming
+       2. Basic Programming
+    4. GeeksforGeeks
    
 2. [DSA](https://github.com/debacoding/DSA)
    
