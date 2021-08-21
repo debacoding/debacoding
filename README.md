@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ## My Repos :
 ```js
-|___ [CPP](https://github.com/debacoding/CPP)
+|___ CPP
 |     |___ Coding Ninjas
 |     |     |___ Basics of C++ (Guided Path)
 |     |     |
@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 |     |     |
 |     |     |
 |     |     |
-|___ [DSA](https://github.com/debacoding/DSA)
+|___ DSA
 |     |     |
 |     |     |
 |     |     | 
@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 |     |     |
 |     |     |
 |     |     |
-|___ [Competitive Programming](https://github.com/debacoding/Competitive-Programming)
+|___ Competitive Programming
 |     |     |
 |     |     |
 |     |     | 
@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
 |     |     |
 |     |     |
 |     |     |
-|___ [HTML](https://github.com/debacoding/HTML)
+|___ HTML
 |     |     |
 |     |     |
 |     |     | 
@@ -88,7 +88,7 @@ You can click the Preview link to take a look at your changes.
 |     |     |
 |     |     |
 |     |     |
-|___ [SQL](https://github.com/debacoding/SQL)
+|___ SQL
 |     |     |
 |     |     |
 |     |     | 
@@ -101,7 +101,7 @@ You can click the Preview link to take a look at your changes.
 |     |     |
 |     |     |
 |     |     |
-|___ [JAVA](https://github.com/debacoding/JAVA)
+|___ JAVA
 |     |     |
 |     |     |
 |     |     | 
@@ -114,7 +114,7 @@ You can click the Preview link to take a look at your changes.
 |     |     |
 |     |     |
 |     |     |
-|___ [PYTHON](https://github.com/debacoding/PYTHON)
+|___ PYTHON
 |     |     |
 |     |     |
 |     |     | 
