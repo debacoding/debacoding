@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Forked Repos :
 1. [competitive-programming-1](https://github.com/debacoding/competitive-programming-1)
-2. [the complete FAANG prep.](https://github.com/debacoding/The-Complete-FAANG-Preparation)
+2. [the complete FAANG prep.](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 3. [coding ninjas competitive programming](https://github.com/debacoding/Coding-Ninjas-Competitive-Programming)
 4. [LinkedIn Learning](https://github.com/LinkedInLearning/c-plus-plus-trucos-2823311)
 5. [Beginning C++ Programming - From Beginner to Beyond | Udemy](https://github.com/aitorlb/beginning-cpp-programming)
