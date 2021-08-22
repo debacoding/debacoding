@@ -9,6 +9,11 @@ debacoding/debacoding is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+Include this line in main() for fast I/O operations:
+```cpp
+std::ios_base::sync_with_stdio(false);
+```
+
 # TABLE OF CONTENTS :
 
 ## My Repos :
