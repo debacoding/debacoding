@@ -16,6 +16,14 @@ std::ios_base::sync_with_stdio(false);
 ## Personal Imp. Points:
 1. after sorting an array elements, first element becomes smallest and last becomes largest
 
+## My Repos :
+1. [CPP](https://github.com/debacoding/1.CPP)
+2. [Competitive Programming](https://github.com/debacoding/2.Competitive-Programming)
+3. [DSA](https://github.com/debacoding/3.DSA)
+4. [HTML](https://github.com/debacoding/4.HTML)
+5. [SQL](https://github.com/debacoding/5.SQL)
+6. [JAVA](https://github.com/debacoding/6.JAVA)
+7. [Python](https://github.com/debacoding/7.PYTHON)
 
 # TABLE OF CONTENTS :
 
