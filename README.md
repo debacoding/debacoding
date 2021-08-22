@@ -68,10 +68,10 @@ std::ios_base::sync_with_stdio(false);
 |     |     |
 |     |     |
 |___ Competitive Programming
-|     |     |
-|     |     |
-|     |     | 
-|     |     |
+|     |     
+|     |___ Templates notes     
+|     |___ Arrays notes
+|     |___ Vectors notes
 |     |     |
 |     |     |
 |     |     |
