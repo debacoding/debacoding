@@ -15,6 +15,15 @@ std::ios_base::sync_with_stdio(false);
 ```
 ## Personal Imp. Points:
 1. after sorting an array elements, first element becomes smallest and last becomes largest
+2. for rotation of an array by D elements :
+```cpp
+if(D>N)
+D %= N;
+// For left rotate-
+arr[i] = arr[(i+D)%N]
+// For right rotate-
+arr[i] = arr[(i+N-D)%N]
+```
 
 ## My Repos :
 1. [CPP](https://github.com/debacoding/1.CPP)
