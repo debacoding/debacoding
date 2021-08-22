@@ -13,6 +13,9 @@ Include this line in main() for fast I/O operations:
 ```cpp
 std::ios_base::sync_with_stdio(false);
 ```
+## Personal Imp. Points:
+1. after sorting an array elements, first element becomes smallest and last becomes largest
+
 
 # TABLE OF CONTENTS :
 
