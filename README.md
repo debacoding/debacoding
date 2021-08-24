@@ -38,11 +38,11 @@ arr[i] = arr[(i+N-D)%N]
 
 ## My Repos :
 ```js
-|___ *CPP*
+|___ CPP
 |     |___ Coding Ninjas
 |     |     |___ Basics of C++ (Guided Path)
-|     |     |
-|     |     |
+|     |     |___ DSA (Guided Path)
+|     |     |___ Competitive programming (Guided Path)
 |     |     | 
 |     |     |
 |     |     |
@@ -60,9 +60,9 @@ arr[i] = arr[(i+N-D)%N]
 |     |___ Hacker Earth 
 |     |     |___ Start Online Programming
 |     |     |___ Basic Programming
-|     |     |
-|     |     |
-|     |     | 
+|     |     |___ Data structures
+|     |     |___ Algorithms
+|     |     |___ Maths
 |     |     |
 |     |     |
 |     |     |
@@ -141,6 +141,19 @@ arr[i] = arr[(i+N-D)%N]
 |     |     |
 |___ PYTHON
 |     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     | 
+|     |     |
+|     |     |
+|     |     |
+|___ C
+|     |___ Hacker Rank (Practice)
 |     |     |
 |     |     | 
 |     |     |
