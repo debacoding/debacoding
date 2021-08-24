@@ -38,7 +38,7 @@ arr[i] = arr[(i+N-D)%N]
 
 ## My Repos :
 ```js
-|___ CPP
+|___ *CPP*
 |     |___ Coding Ninjas
 |     |     |___ Basics of C++ (Guided Path)
 |     |     |
@@ -48,13 +48,13 @@ arr[i] = arr[(i+N-D)%N]
 |     |     |
 |     |     |
 |     |___ Hacker Rank
-|     |     |___ Practice / C++
+|     |     |___ Practice / C++ 
 |     |     |___ 30 days of code
 |     |     |___ Project Euler +
 |     |     |___ Interview preparation kit
-|     |     |
-|     |     | 
-|     |     |
+|     |     |___ Practice / Data structures
+|     |     |___ Practice / Algorithms 
+|     |     |___ 
 |     |     |
 |     |     |
 |     |___ Hacker Earth 
@@ -114,7 +114,7 @@ arr[i] = arr[(i+N-D)%N]
 |     |     |
 |     |     |
 |___ SQL
-|     |     |
+|     |     |___ Hacker Rank
 |     |     |
 |     |     | 
 |     |     |
