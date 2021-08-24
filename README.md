@@ -41,6 +41,12 @@ arr[i] = arr[(i+N-D)%N]
 |___ CPP
 |     |___ Coding Ninjas
 |     |     |___ Basics of C++ (Guided Path)
+|     |     |     |___ Arrays
+|     |     |     |___ Conditional statements and loops
+|     |     |     |___ Function
+|     |     |     |___ I/O
+|     |     |     |___ OOP
+|     |     |     |___ Strings
 |     |     |___ DSA (Guided Path)
 |     |     |___ Competitive programming (Guided Path)
 |     |     | 
@@ -49,23 +55,66 @@ arr[i] = arr[(i+N-D)%N]
 |     |     |
 |     |___ Hacker Rank
 |     |     |___ Practice / C++ 
+|     |     |     |___ Introduction
+|     |     |     |___ Strings
+|     |     |     |___ Classes
+|     |     |     |___ Inheritance
+|     |     |     |___ Debugging
+|     |     |     |___ Other concepts
+|     |     |     |___ STL
 |     |     |___ 30 days of code
 |     |     |___ Project Euler +
 |     |     |___ Interview preparation kit
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
 |     |     |___ Practice / Data structures
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
 |     |     |___ Practice / Algorithms 
-|     |     |___ 
-|     |     |
-|     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
 |     |___ Hacker Earth 
 |     |     |___ Start Online Programming
 |     |     |___ Basic Programming
+|     |     |     |___ Basics of I/O
+|     |     |     |___ Basics of Implementation
+|     |     |     |___ Basics of Operators
+|     |     |     |___ Recursion and Backtracking
+|     |     |     |___ Basics of Bit Manipulation
+|     |     |     |
 |     |     |___ Data structures
+|     |     |     |___ Arrays
+|     |     |     |___ Stacks
+|     |     |     |___ Queues
+|     |     |     |___ Hash tables
+|     |     |     |___ Linked list
+|     |     |     |___ Trees
+|     |     |     |___ Advanced DS
+|     |     |     |___ Disjoint DS
+|     |     |     |
 |     |     |___ Algorithms
+|     |     |     |
+|     |     |     |
+|     |     |     |
 |     |     |___ Maths
-|     |     |
-|     |     |
-|     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
 |     |___ GeeksforGeeks
 |     |     |___ Arrays
 |     |     |___ Vectors
@@ -74,7 +123,7 @@ arr[i] = arr[(i+N-D)%N]
 |     |     |
 |     |     |
 |     |     |
-|___ DSA
+|     |     |
 |     |     |
 |     |     |
 |     |     | 
@@ -114,7 +163,7 @@ arr[i] = arr[(i+N-D)%N]
 |     |     |
 |     |     |
 |___ SQL
-|     |     |___ Hacker Rank
+|     |___ Hacker Rank (Practice)
 |     |     |
 |     |     | 
 |     |     |
