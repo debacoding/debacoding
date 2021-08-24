@@ -51,7 +51,7 @@ arr[i] = arr[(i+N-D)%N]
 |     |     |___ Practice / C++
 |     |     |___ 30 days of code
 |     |     |___ Project Euler +
-|     |     |
+|     |     |___ Interview preparation kit
 |     |     |
 |     |     | 
 |     |     |
