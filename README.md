@@ -28,7 +28,7 @@ arr[i] = arr[(i+N-D)%N]
 ## My Repos :
 1. [CPP](https://github.com/debacoding/1.CPP)
 2. [Competitive Programming](https://github.com/debacoding/2.Competitive-Programming)
-3. [C]()
+3. [C](https://github.com/debacoding/3.C)
 4. [HTML](https://github.com/debacoding/4.HTML)
 5. [SQL](https://github.com/debacoding/5.SQL)
 6. [JAVA](https://github.com/debacoding/6.JAVA)
