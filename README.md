@@ -165,11 +165,6 @@ arr[i] = arr[(i+N-D)%N]
 |___ SQL
 |     |___ Hacker Rank (Practice)
 |     |     |
-|     |     | 
-|     |     |
-|     |     |
-|     |     |
-|     |     |
 |     |     |
 |     |     | 
 |     |     |
@@ -203,9 +198,11 @@ arr[i] = arr[(i+N-D)%N]
 |     |     |
 |___ C
 |     |___ Hacker Rank (Practice)
-|     |     |
-|     |     | 
-|     |     |
+|     |     |___ Introduction
+|     |     |___ Conditionals and Loops 
+|     |     |___ Arras and Strings
+|     |     |___ Functions
+|     |     |___ Structs and Enums
 |     |     |
 |     |     |
 |     |     |
