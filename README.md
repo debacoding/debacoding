@@ -171,14 +171,14 @@ arr[i] = arr[(i+N-D)%N]
 |     |     |
 |     |     |
 |___ JAVA
-|     |     |
-|     |     |
-|     |     | 
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
+|     |___ Hacker Rank (Practice)
+|     |     |___ Introduction
+|     |     |___ Strings 
+|     |     |___ BigNumber
+|     |     |___ Data Structures
+|     |     |___ OOP
+|     |     |___ Exception Handling
+|     |     |___ Advanced
 |     |     | 
 |     |     |
 |     |     |
