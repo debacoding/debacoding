@@ -9,22 +9,6 @@ debacoding/debacoding is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-Include this line in main() for fast I/O operations:
-```cpp
-std::ios_base::sync_with_stdio(false);
-```
-## Personal Imp. Points:
-1. after sorting an array elements, first element becomes smallest and last becomes largest
-2. for rotation of an array by D elements :
-```cpp
-if(D>N)
-D %= N;
-// For left rotate-
-arr[i] = arr[(i+D)%N]
-// For right rotate-
-arr[i] = arr[(i+N-D)%N]
-```
-
 ## My Repos :
 1. [CPP](https://github.com/debacoding/1.CPP)
 2. [Competitive Programming](https://github.com/debacoding/2.Competitive-Programming)
@@ -38,7 +22,7 @@ arr[i] = arr[(i+N-D)%N]
 
 ## My Repos :
 ```js
-|___ CPP
+|___ ##CPP
 |     |___ Coding Ninjas
 |     |     |___ Basics of C++ (Guided Path)
 |     |     |     |___ Arrays
@@ -49,9 +33,6 @@ arr[i] = arr[(i+N-D)%N]
 |     |     |     |___ Strings
 |     |     |___ DSA (Guided Path)
 |     |     |___ Competitive programming (Guided Path)
-|     |     | 
-|     |     |
-|     |     |
 |     |     |
 |     |___ Hacker Rank
 |     |     |___ Practice / C++ 
@@ -66,27 +47,9 @@ arr[i] = arr[(i+N-D)%N]
 |     |     |___ Project Euler +
 |     |     |___ Interview preparation kit
 |     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
 |     |     |___ Practice / Data structures
 |     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
 |     |     |___ Practice / Algorithms 
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
 |     |     |     |
 |     |___ Hacker Earth 
 |     |     |___ Start Online Programming
@@ -109,32 +72,11 @@ arr[i] = arr[(i+N-D)%N]
 |     |     |     |
 |     |     |___ Algorithms
 |     |     |     |
-|     |     |     |
-|     |     |     |
 |     |     |___ Maths
-|     |     |     |
-|     |     |     |
 |     |     |     |
 |     |___ GeeksforGeeks
 |     |     |___ Arrays
 |     |     |___ Vectors
-|     |     | 
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     | 
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     | 
-|     |     |
-|     |     |
 |     |     |
 |___ Competitive Programming
 |     |     
@@ -142,34 +84,10 @@ arr[i] = arr[(i+N-D)%N]
 |     |___ Arrays notes
 |     |___ Vectors notes
 |     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     | 
-|     |     |
-|     |     |
-|     |     |
 |___ HTML
-|     |     |
-|     |     |
-|     |     | 
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     | 
-|     |     |
-|     |     |
 |     |     |
 |___ SQL
 |     |___ Hacker Rank (Practice)
-|     |     |
-|     |     |
-|     |     | 
-|     |     |
-|     |     |
-|     |     |
 |___ JAVA
 |     |___ Hacker Rank (Practice)
 |     |     |___ Introduction
@@ -179,22 +97,8 @@ arr[i] = arr[(i+N-D)%N]
 |     |     |___ OOP
 |     |     |___ Exception Handling
 |     |     |___ Advanced
-|     |     | 
-|     |     |
-|     |     |
 |     |     |
 |___ PYTHON
-|     |     |
-|     |     |
-|     |     | 
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     | 
-|     |     |
-|     |     |
 |     |     |
 |___ C
 |     |___ Hacker Rank (Practice)
@@ -203,16 +107,22 @@ arr[i] = arr[(i+N-D)%N]
 |     |     |___ Arras and Strings
 |     |     |___ Functions
 |     |     |___ Structs and Enums
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     | 
-|     |     |
-|     |     |
-|     |     |
 ```
-
+Include this line in main() for fast I/O operations:
+```cpp
+std::ios_base::sync_with_stdio(false);
+```
+## Personal Imp. Points:
+1. after sorting an array elements, first element becomes smallest and last becomes largest
+2. for rotation of an array by D elements :
+```cpp
+if(D>N)
+D %= N;
+// For left rotate-
+arr[i] = arr[(i+D)%N]
+// For right rotate-
+arr[i] = arr[(i+N-D)%N]
+```
 ## My stars:
 1. [Hacker rank 30 days of code](https://github.com/xeoneux/30-Days-of-Code)
 2. [Begineer CPP](https://github.com/Vishal-raj-1/Beginner-CPP-Submissions/tree/master/Vishal)
@@ -228,13 +138,3 @@ arr[i] = arr[(i+N-D)%N]
 4. [LinkedIn Learning](https://github.com/LinkedInLearning/c-plus-plus-trucos-2823311)
 5. [Beginning C++ Programming - From Beginner to Beyond | Udemy](https://github.com/aitorlb/beginning-cpp-programming)
 6. [Algorithms and Data Structures MicroMasters Program | edX](https://github.com/aitorlb/algorithms-and-data-structures-micromasters)
-
-
-
-
-
-
-
-
-
-
