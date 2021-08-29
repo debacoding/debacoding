@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ## My Repos :
 ```js
-|___ ##CPP
+|___ CPP
 |     |___ Coding Ninjas
 |     |     |___ Basics of C++ (Guided Path)
 |     |     |     |___ Arrays
