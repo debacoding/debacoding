@@ -87,7 +87,8 @@ You can click the Preview link to take a look at your changes.
 |___ HTML
 |     |     |
 |___ SQL
-|     |___ Hacker Rank (Practice)
+|     |___ Hacker Rank (Practice / SQL)
+|     |___ Hacker Rank (Practice / Databases)
 |___ JAVA
 |     |___ Hacker Rank (Practice)
 |     |     |___ Introduction
