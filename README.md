@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 |    Practice    |  Language    | Practice    |  Language    |       
 | ---------------|:------------:| ---------------|:------------:|
 | **HACKER RANK (HR)**    |          |**HACKER EARTH (HE)** | |                           
-| 1. [`Practice / C++`](https://github.com/debacoding/1.CPP/tree/main/Practice%20Problems/HACKERRANK) | CPP | 
-| 1.1. Introduction | | 
-| 1.2. Strings | | 
-| 1.3. Classes | | 
-| 1.4. Inheritance | |
+| 1. [`Practice / C++`](https://github.com/debacoding/1.CPP/tree/main/Practice%20Problems/HACKERRANK) | CPP | 1. [`Start Online Programming`](https://github.com/debacoding/1.CPP/tree/main/Practice%20Problems/HACKEREARTH/Start%20Online%20Programming) | CPP |
+| 1.1. Introduction | | 2. [`Basic Programming`](https://github.com/debacoding/1.CPP/tree/main/Practice%20Problems/HACKEREARTH/Basic%20Programming) | CPP |
+| 1.2. Strings | |  2.1. Basics of I/O | |
+| 1.3. Classes | | 2.2. Basics of Implementation | |
+| 1.4. Inheritance | |2.3. Basics of Operators | |
 | 1.5. Debugging | |
 | 1.6. Other concepts | |
 | 1.7. STL | | 
