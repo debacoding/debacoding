@@ -34,45 +34,8 @@ You can click the Preview link to take a look at your changes.
 |     |     |___ DSA (Guided Path)
 |     |     |___ Competitive programming (Guided Path)
 |     |     |
-|     |___ Hacker Rank
-|     |     |___ Practice / C++ 
-|     |     |     |___ Introduction
-|     |     |     |___ Strings
-|     |     |     |___ Classes
-|     |     |     |___ Inheritance
-|     |     |     |___ Debugging
-|     |     |     |___ Other concepts
-|     |     |     |___ STL
-|     |     |___ 30 days of code
-|     |     |___ Project Euler +
-|     |     |___ Interview preparation kit
-|     |     |     |
-|     |     |___ Practice / Data structures
-|     |     |     |
-|     |     |___ Practice / Algorithms 
-|     |     |     |
-|     |___ Hacker Earth 
-|     |     |___ Start Online Programming
-|     |     |___ Basic Programming
-|     |     |     |___ Basics of I/O
-|     |     |     |___ Basics of Implementation
-|     |     |     |___ Basics of Operators
-|     |     |     |___ Recursion and Backtracking
-|     |     |     |___ Basics of Bit Manipulation
-|     |     |     |
-|     |     |___ Data structures
-|     |     |     |___ Arrays
-|     |     |     |___ Stacks
-|     |     |     |___ Queues
-|     |     |     |___ Hash tables
-|     |     |     |___ Linked list
-|     |     |     |___ Trees
-|     |     |     |___ Advanced DS
-|     |     |     |___ Disjoint DS
-|     |     |     |
-|     |     |___ Algorithms
-|     |     |     |
-|     |     |___ Maths
+
+
 |     |     |     |
 |     |___ GeeksforGeeks
 |     |     |___ Arrays
@@ -86,28 +49,8 @@ You can click the Preview link to take a look at your changes.
 |     |     |
 |___ HTML
 |     |     |
-|___ SQL
-|     |___ Hacker Rank (Practice / SQL)
-|     |___ Hacker Rank (Practice / Databases)
-|___ JAVA
-|     |___ Hacker Rank (Practice)
-|     |     |___ Introduction
-|     |     |___ Strings 
-|     |     |___ BigNumber
-|     |     |___ Data Structures
-|     |     |___ OOP
-|     |     |___ Exception Handling
-|     |     |___ Advanced
-|     |     |
-|___ PYTHON
-|     |     |
-|___ C
-|     |___ Hacker Rank (Practice)
-|     |     |___ Introduction
-|     |     |___ Conditionals and Loops 
-|     |     |___ Arras and Strings
-|     |     |___ Functions
-|     |     |___ Structs and Enums
+
+
 ```
 ## Personal Imp. Points:
 0. Include this line in main() for fast I/O operations:
