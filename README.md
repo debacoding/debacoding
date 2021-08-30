@@ -109,11 +109,11 @@ You can click the Preview link to take a look at your changes.
 |     |     |___ Functions
 |     |     |___ Structs and Enums
 ```
-Include this line in main() for fast I/O operations:
+## Personal Imp. Points:
+0. Include this line in main() for fast I/O operations:
 ```cpp
 std::ios_base::sync_with_stdio(false);
 ```
-## Personal Imp. Points:
 1. after sorting an array elements, first element becomes smallest and last becomes largest
 2. for rotation of an array by D elements :
 ```cpp
@@ -124,18 +124,3 @@ arr[i] = arr[(i+D)%N]
 // For right rotate-
 arr[i] = arr[(i+N-D)%N]
 ```
-## My stars:
-1. [Hacker rank 30 days of code](https://github.com/xeoneux/30-Days-of-Code)
-2. [Begineer CPP](https://github.com/Vishal-raj-1/Beginner-CPP-Submissions/tree/master/Vishal)
-3. [Competitive Programming](https://github.com/kothariji/competitive-programming)
-4. [Competitive Programming ~ Coding Ninjas](https://github.com/parikshit223933/Coding-Ninjas-Competitive-Programming)
-5. [Project euler + ~ Hacker rank](https://github.com/Harmon758/Project-Euler)
-   
-
-## Forked Repos :
-1. [competitive-programming-1](https://github.com/debacoding/competitive-programming-1)
-2. [the complete FAANG prep.](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-3. [coding ninjas competitive programming](https://github.com/debacoding/Coding-Ninjas-Competitive-Programming)
-4. [LinkedIn Learning](https://github.com/LinkedInLearning/c-plus-plus-trucos-2823311)
-5. [Beginning C++ Programming - From Beginner to Beyond | Udemy](https://github.com/aitorlb/beginning-cpp-programming)
-6. [Algorithms and Data Structures MicroMasters Program | edX](https://github.com/aitorlb/algorithms-and-data-structures-micromasters)
