@@ -9,6 +9,12 @@ debacoding/debacoding is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+1. [Geeks for Geeks Practice](https://github.com/debacoding/Geeks-for-Geeks-Practice-Solutions)
+2. [Competitive Programming](https://github.com/debacoding/2.Competitive-Programming)
+3. [CPP](https://github.com/debacoding/1.CPP)
+4. [HTML](https://github.com/debacoding/4.HTML)
+
+
 |    Practice    |  Language    | Practice    |  Language    |  Practice    |  Language    |     
 | ---------------|:------------:| ---------------|:------------:|---------------|:------------:|
 | **HACKER RANK (HR)**    |          |**HACKER EARTH (HE)** | | **GEEKS FOR GEEKS (GFG)** | |                          
@@ -58,10 +64,7 @@ You can click the Preview link to take a look at your changes.
 | 3. [`Guided Path / Competitive programming`](https://github.com/debacoding/1.CPP/tree/main/Practice%20Problems/CODING%20NINJAS) | CPP |
 
 
-## My Repos :
-1. [CPP](https://github.com/debacoding/1.CPP)
-2. [Competitive Programming](https://github.com/debacoding/2.Competitive-Programming)
-4. [HTML](https://github.com/debacoding/4.HTML)
+
 
 ## Personal Imp. Points:
 0. Include this line in main() for fast I/O operations:
